@@ -1,0 +1,6 @@
+ * The PDF is a CV template with sections for education, work experience, and additional information.
+* The Education and Qualifications section includes university education details, degree, subject, location, and relevant information.
+* The Work Experience section lists job experiences in reverse chronological order, with company name, job title, dates, and bullet points for job functions, responsibilities, achievements, and contributions.
+* It is advised to use quantitative examples and action verbs, while avoiding negativity, industry jargon, and using the CV as a job description.
+* The Additional Information section suggests listing interests actively participated in.
+* The Summary should highlight activities with associated achievements and list academic and other achievements, such as First Class Honors.

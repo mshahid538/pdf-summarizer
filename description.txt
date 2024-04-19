@@ -1,0 +1,9 @@
+Introduction: This PDF Summarizer is devloped using AI to take PDF file then use AI to summaries the PDF file.
+The project has a client app that is a front application created using ReactJs and backend API using Nodejs.
+The OCTOAI a GenAI inference build and scale production applicatiaons on the latest optimized models and fine tunes.
+OCTOAI Provids LLMs API for Text Generation (chat, summarization, and structured outoput), Media Gen API for image and videos, and OctoStack for Turnkey GenAI.
+
+Why we choose OCTOAI?
+OCTOAI is affordable and easily accessible with greate documentation support.
+Also, I already have API Token Key created in OCTOAI and developement environment is already fine tuned with it to work and developement.
+
